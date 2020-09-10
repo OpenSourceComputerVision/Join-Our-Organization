@@ -6,7 +6,7 @@ Open for all contributions
 
 ### Simple steps to join:
 
-> Raise a issue or solve any issue and raise a PR.
+> Raise a issue 
 
 > Write issue title "Request for joining".
 
